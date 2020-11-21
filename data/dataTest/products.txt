@@ -1,0 +1,25 @@
+Headphones,30,3.99
+Cherries - Frozen,17,24.97
+Pasta - Orecchiette,35,61.24
+Orange Roughy 4/6 Oz,2,56.11
+Soup - Campbells -> Creamy,34,71.43
+Muffins - Assorted,34,92.07
+Oyster - In Shell,2,38.7
+Vaccum Bag - 14x20,22,36.77
+Wine - Barolo Fontanafredda,9,78.93
+Papayas,40,23.07
+Buffalo - Striploin,16,48.87
+Muffin Orange Individual,15,58.78
+"Juice - Pineapple, 341 Ml",12,20.25
+Sugar - White Packet,37,30.78
+Syrup - Chocolate,9,24.47
+Spic And Span All Purpose,13,37.73
+Trueblue - Blueberry Cranberry,1,19.81
+Sansho Powder,3,14.87
+Peppercorns - Pink,30,43.42
+Chicken - Soup Base,11,93.2
+"Juice - Apple, 500 Ml",23,53.28
+Flower - Carnations,38,84.35
+Lettuce - Frisee,31,97.67
+Chick Peas - Canned,36,9.39
+Rice - Wild,27,40.26
